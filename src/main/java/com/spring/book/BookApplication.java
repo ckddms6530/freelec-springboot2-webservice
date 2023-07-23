@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BookApplication {
 
     public static void main(String[] args) {
+
+        // 내장 WAS 실행
         SpringApplication.run(BookApplication.class, args);
     }
 
